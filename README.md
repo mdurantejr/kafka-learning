@@ -18,3 +18,7 @@ https://courses.datacumulus.com/downloads/confluent-schema-registry-3r3/
 - Kafka Connect    
 https://www.udemy.com/course/kafka-connect/  
 https://courses.datacumulus.com/downloads/kafka-connect-09a/  
+
+- Kafka Streams for Data Processing  
+https://www.udemy.com/course/kafka-streams/  
+https://courses.datacumulus.com/downloads/kafka-streams-sn2/
